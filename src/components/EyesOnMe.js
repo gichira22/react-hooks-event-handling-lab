@@ -1,5 +1,3 @@
-// Code EyesOnMe Component Here
-// EyesOnMe.jsx
 import React from "react";
 
 class EyesOnMe extends React.Component {
